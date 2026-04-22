@@ -2,7 +2,7 @@
 
 A rhythm action game where you fight in sync with the beat.
 
-[▶ Watch ](https://www.youtube.com/@Multi-Group)
+[▶ Watch Youtube ](https://www.youtube.com/@Multi-Group)
 
 Feel the beat. Attack in rhythm. Destroy enemies with flow.
 

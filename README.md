@@ -4,9 +4,6 @@
 # BeatChicken 🐔🎧
 
 A rhythm action game where you fight in sync with the beat.
-
-[▶ Watch Youtube ](https://www.youtube.com/@Multi-Group)
-
 Feel the beat. Attack in rhythm. Destroy enemies with flow.
 
 ## 🎮 Features
@@ -16,3 +13,10 @@ Feel the beat. Attack in rhythm. Destroy enemies with flow.
 
 ## 📡 Status
 In development → Planned for release on Steam
+
+## 👤 Developer
+
+Okazaki Tomohiro  
+Multi-Group Games  
+
+[YouTube](https://www.youtube.com/@Multi-Group)

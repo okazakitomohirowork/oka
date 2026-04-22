@@ -15,4 +15,4 @@ Feel the beat. Attack in rhythm. Destroy enemies with flow.
 - 🎵 Works with any music
 
 ## 📡 Status
-In development
+In development → Planned for release on Steam

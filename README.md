@@ -4,6 +4,7 @@
 # BeatChicken 🐔🎧
 
 A rhythm action game where you fight in sync with the beat.
+
 Feel the beat. Attack in rhythm. Destroy enemies with flow.
 
 ## 🎮 Features
